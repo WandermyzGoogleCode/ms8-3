@@ -4,6 +4,6 @@
 <wiki:toc max_depth="3"/>
 
 =2010/05/06 - 2010/05/07 Mission Start!=
- * 如果没有Gmail账号，请到[http://mail.google.com]注册一个
+ * 如果没有Gmail账号，请到[http://mail.google.com]注册一个，然后短信或飞信把地址告诉刘洋。
  * 找到你自己的任务页面，对此页面发一条评论
  * 随便逛逛

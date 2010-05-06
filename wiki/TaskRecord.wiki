@@ -1,5 +1,5 @@
 #summary 任务完成记录
-#labels Featured
+#labels Featured,Type-Notification
 
 = 介绍 =
  * 每个人的初始rating都是0。

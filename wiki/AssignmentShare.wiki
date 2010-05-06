@@ -3,7 +3,7 @@
 
 <wiki:toc max_depth="3"/>
 
-=2010/05/06 熟悉Google Code=
+=2010/05/06=
  * 如果没有gmail账号，请到[http://mail.google.com]注册一个
  * 找到你自己的任务页面，对此页面发一条评论
  * 随便逛逛

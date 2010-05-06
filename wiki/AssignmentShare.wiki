@@ -4,7 +4,7 @@
 <wiki:toc max_depth="3"/>
 
 =2010/05/06 - 2010/05/07 Mission Start!=
- * 到[http://mail.google.com]注册一个，然后短信或飞信把地址告诉刘洋
+ * 到[http://mail.google.com]注册一个Gmail账号，然后短信或飞信把地址告诉刘洋
  * 刘洋加你为Project Committers后，找到“共同的任务”页面，对此页面发一条评论
  * 随便逛逛
  * 请在周五晚上开会之前完成

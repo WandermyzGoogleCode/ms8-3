@@ -1,5 +1,5 @@
 #summary 2010/03/07会议议程和记录
-#labels Type-MeetingNotes
+#labels Type-MeetingNotes,Product-Oracle
 
 <wiki:toc maxdepth=3/>
 

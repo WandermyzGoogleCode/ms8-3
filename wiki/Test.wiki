@@ -1,4 +1,5 @@
 #summary 这是一个测试页面
+#labels Deprecated
 
 =标题一=
 ==标题二==

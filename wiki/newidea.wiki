@@ -1,5 +1,5 @@
 #summary 新想法 by 孙开宇
-#labels Type-Notes,Phase-Requirements
+#labels Type-Notes,Phase-Requirements,Product-Oracle
 
 =到此一游签名=
  * 看到一个博物馆的照片，是“电子签名墙”，我想可以加到我们这里：游客们可以用甲骨文把自己的名字写出来，然后留到电子签名墙上，这样就会形成一个“万人签名墙”了，哈哈~就跟`***`到此一游一样，估计很多人会喜欢~

@@ -4,7 +4,7 @@
 <wiki:toc max_depth="3"/>
 
 =2010/05/08 - 2010/05/15 Flash Ready=
- * 如果你已经装好了，请无视这个任务。
+ * 如果你已经装好了，请直接跳到“任务提交”。
  * 今后可能需要每个人都会一些Flash，至少要知道怎样把素材转换为Flash可用的格式，所以请先装好Flash软件。
  * 可以从Corsair上下载Flash软件
   * [http://corsair.thuhpc.org/ Corsair官网]

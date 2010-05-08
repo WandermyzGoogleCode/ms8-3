@@ -3,6 +3,22 @@
 
 <wiki:toc max_depth="3"/>
 
+=2010/05/08 - 2010/05/15 Flash Ready~=
+ * 今后可能需要每个人都会一些Flash，至少要知道怎样把素材转换为Flash可用的格式，所以请先装好Flash软件。
+ * 可以从Corsair上下载Flash软件
+  * [http://corsair.thuhpc.org/ Corsair官网]
+  * [http://corsair.thuhpc.org/index.php?option=com_jotloader&task=files.download&cid=69&Itemid=30 Corsair For Windows下载地址]
+ * 如果要单独安装Flash，可以在Corsair中搜索“Adobe Flash CS4”
+ * 如果要安装Adobe Creative Suite套件（包含Flash、Photoshop、Acrobat等软件），可以在Corsair中搜索“Adobe CS3”或者“Adobe CS4”。
+  * 注1：Adboe CS非常大，很占空间（尤其是很流氓地吃C盘空间），所以在安装时一定要选Custom安装，只选择你需要的软件。除Flash以外，建议把Photoshop也装上。不知道干什么用的软件最好不要装。
+  * 注2：如果装CS3，那么在安装之前需要把已经装过的Adobe产品卸载，否则安装会出错。不知道CS4是否解决了这个BUG。
+ * *任务提交* Flash安装完成后，请在此页面留个评论。如果有任何问题，可以留到下周六上课时解决（有条件的话尽量带上你的笔记本电脑以及所下载的安装文件）。
+
+=2010/05/08 - ? Hunt for Oracle=
+ * 我们需要根据每个分时段游戏的需求来寻找素材，主要是从甲骨文字库中挑选适合游戏的文字、找山水画之类的事情。各部分分工和展示PPT的分工相同。
+ * 先请[AssignmentWC 王琛]试着找找甲骨文字库。找到后，我会根据字库的格式来确定每人具体需要提交什么内容，然后把每人的具体任务写在个人任务页面。
+ * 因为王琛找字库的复杂度不定，所以暂时不设Deadline。
+
 =2010/05/06 - 2010/05/07 Mission Start!=
  * 到[http://mail.google.com]注册一个Gmail账号，然后短信或飞信把地址告诉刘洋
  * 刘洋加你为Project Committers后，找到“共同的任务”页面，对此页面发一条评论

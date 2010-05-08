@@ -1,4 +1,5 @@
 #summary 5/8张老师点评
+#labels Product-Oracle,Type-Notes,Phase-Requirements
  
  * 提示：大家可以在[http://code.google.com/p/ms8-3/source/browse/wiki/20100508CommentByZhang.wiki 这个页面]查看评论，或者双击任意一行来对该行内容发表评论。
 

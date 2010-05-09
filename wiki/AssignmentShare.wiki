@@ -10,6 +10,7 @@
   * [http://corsair.thuhpc.org/ Corsair官网]
   * [http://corsair.thuhpc.org/index.php?option=com_jotloader&task=files.download&cid=69&Itemid=30 Corsair For Windows下载地址]
  * 如果要单独安装Flash，可以在Corsair中搜索“Adobe Flash CS4”
+ * 如果你对编写Action Script 3.0感兴趣，建议安装Flash CS5和Flash Builder 4，经测试，这两个软件可以比较完美地协同工作。这两个软件比较难找，需要的话可以找我要。
  * 如果要安装Adobe Creative Suite套件（包含Flash、Photoshop、Acrobat等软件），可以在Corsair中搜索“Adobe CS3”或者“Adobe CS4”。
   * 注1：Adboe CS非常大，很占空间（尤其是很流氓地吃C盘空间），所以在安装时一定要选Custom安装，只选择你需要的软件。除Flash以外，建议把Photoshop也装上。不知道干什么用的软件最好不要装。
   * 注2：如果装CS3，那么在安装之前需要把已经装过的Adobe产品卸载，否则安装会出错。不知道CS4是否解决了这个BUG。

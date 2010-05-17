@@ -3,6 +3,17 @@
 
 <wiki:toc max_depth="3"/>
 
+=2010/5/18 - 2010/5/22 Hunt for Oracle - Stage 2=
+ * 本周在上周的基础上对素材做进一步加工
+ * 任务分配（具体说明见个人任务页面）
+  * [AssignmentSKY 孙开宇] 身体比划（补上周）
+  * [AssignmentWC 王琛] 根据张猛的分镜做其中一个字的FLASH动画
+  * [AssignmentZDM 朱丹墨] 根据张猛的分镜做其中一个字的FLASH动画
+  * [AssignmentZY 张愉] 按张老师的要求做一张比较详细的设计图
+  * [AssignmentLY 刘洋] 继续制作Flash
+  * 张猛 （轮空，TOEFL加油）
+ * 这次的任务说明写得比较粗糙，因为我也不是非常清楚哪一部分具体应该怎么做。大家适当发挥一下主观能动性吧。有任何问题或困难请及时联系我。
+
 =2010/5/13 - 2010/5/15 Hunt for Oracle - Stage 1=
  * 因为张老师说这周六要有一些详细的设定，所以我们先从“找字”开始。因为时间有限，本周不必把所有素材找全，只要有东西提交即可。
  * 下载[http://ms8-3.googlecode.com/files/jia%20kai%20dui%20zhao%20biao.pdf 甲楷对照表]

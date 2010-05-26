@@ -3,6 +3,11 @@
 
 <wiki:toc max_depth="3" />
 
+=2010/5/18 - 2010/5/22 Hunt for Oracle - Stage 3=
+ * 完成“水”字的Flash动画
+  * [http://ms8-3.googlecode.com/files/dian_zi_chu_tu.docx 这里]有对“水”字的解释，最好也放进动画里。
+  * 把FLA文件、SWF文件和其他有关文件（如果有）打包提交到Downloads。
+
 =2010/5/18 - 2010/5/22 Hunt for Oracle - Stage 2=
  * 根据张猛的分镜做其中一个字的FLASH动画
  * 张猛的分镜会放在Downloads里

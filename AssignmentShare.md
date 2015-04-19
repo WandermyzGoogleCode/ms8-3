@@ -1,0 +1,77 @@
+
+
+# 2010/5/26 - 2010/5/28 Hunt for Oracle - Stage 3 #
+  * 抱歉，之前一直在赶Deadline，任务发布又晚了……
+  * 张老师发话了：
+```
+ “各组加快进度，下周展示”
+```
+  * 当然，就目前的情况来看，我们组的进度应该算比较快的。但是还是有一些事情要做。
+  * 任务分配（请看个人任务页面的**具体说明**）
+    * [孙开宇](AssignmentSKY.md) 身体比划（你要是再延后的话这事就无解了，拜托了）
+    * [王琛](AssignmentWC.md) 完成“马”字的Flash动画
+    * [朱丹墨](AssignmentZDM.md) 完成“水”字的Flash动画
+    * [张猛](AssignmentZM.md) 准备一张《钱塘湖春行》的书法图
+    * [刘洋](AssignmentLY.md) 继续制作Flash（第三张拖图出字；点字出图）
+    * 张愉 （机动，请尽量给周五晚上留出一到两小时空闲时间）
+    * 朱倩芸 （机动，请尽量给周五晚上留出一到两小时空闲时间）
+  * 请大家早一点完成任务，尽量不要拖到周五晚上或者周六。因为我下一步的Flash制作需要本次任务的素材，所以如果可能的话，尽量给我留出一点做Flash的时间。
+  * 临近期末了，大家都很忙，尽力而为就好。有任何问题或困难请**及时**联系我。
+  * 不出意外的话，这应该是Oracle最终战了。
+
+# 2010/5/18 - 2010/5/22 Hunt for Oracle - Stage 2 #
+  * 本周在上周的基础上对素材做进一步加工
+  * 任务分配（具体说明见个人任务页面）
+    * [孙开宇](AssignmentSKY.md) 身体比划（继续延后一周）
+    * [王琛](AssignmentWC.md) 根据张猛的分镜做其中一个字的FLASH动画
+    * [朱丹墨](AssignmentZDM.md) 根据张猛的分镜做其中一个字的FLASH动画（延后）
+    * [张愉](AssignmentZY.md) 按张老师的要求做一张比较详细的设计图（取消）
+    * [朱倩芸](AssignmentZQY.md) 按张老师的要求做一张比较详细的设计图（取消）
+    * [刘洋](AssignmentLY.md) 继续制作Flash
+    * 张猛 （轮空，TOEFL加油）
+  * 这次的任务说明写得比较粗糙，因为我也不是非常清楚哪一部分具体应该怎么做。大家适当发挥一下主观能动性吧。有任何问题或困难请及时联系我。
+
+# 2010/5/13 - 2010/5/15 Hunt for Oracle - Stage 1 #
+  * 因为张老师说这周六要有一些详细的设定，所以我们先从“找字”开始。因为时间有限，本周不必把所有素材找全，只要有东西提交即可。
+  * 下载[甲楷对照表](http://ms8-3.googlecode.com/files/jia%20kai%20dui%20zhao%20biao.pdf)
+  * 任务分配（具体说明见个人任务页面）
+    * [张猛](AssignmentZM.md) 点字出图
+    * [孙开宇](AssignmentSKY.md) 身体比划（延后一周）
+    * [朱丹墨](AssignmentZDM.md) 拖图出字
+    * [朱倩芸](AssignmentZQY.md) 拖图出字
+    * [张愉](AssignmentZY.md) 拖字到字
+    * [王琛](AssignmentWC.md)（轮空，准备讲解Flash基本操作）
+    * [刘洋](AssignmentLY.md)（轮空，学习Flash和Action Script）
+  * 甲骨文表示方法：用对照表中的楷体字表示。
+    * 如果有多个甲骨文对应同一个楷体字，则在楷体字后面加序号来区别，序号顺序从上到下。例如，第一页中的第二个字表示为“安2”。
+  * **任务提交**
+    * 如果没有图片或者只有小图片，则保存成Word文档或者纯文本（不要存PDF，因为不方便编辑）上传到Downloads。
+    * 如果有高分辨率大图，就把Word文档和单独的图片文件一起打包上传到Downloads。
+  * 如果有问题或者有困难请**在Deadline之前**联系我。
+  * **PS:**
+    * 张愉友情提供一个实用的在线甲骨文转换地址：[CHINESE ETYMOLOGY ](http://www.internationalscientific.org/) ~这个地址里可以转换文字的单字到甲骨文、金文、篆体等，还给出了一些简单的演变解释，还挺有用的，大家可以看看用的着否~哎呀呀~第一次EDIT这个PAGE啊~不会出问题吧~by 张愉   （刚发现连打两个浪号就是将之后所有字中划线啊。。。囧。。恩。。对了刘老师。。周六我不去上课了。。任务文件已提交你看看有问题找我。。我下周设计交图了。。是不是不该在这里水啊。。。OVER）
+
+
+# 2010/05/08 - 2010/05/15 Flash Ready #
+  * 如果你已经装好了，请直接跳到“任务提交”。
+  * 今后可能需要每个人都会一些Flash，至少要知道怎样把素材转换为Flash可用的格式，所以请先装好Flash软件。
+  * 可以从Corsair上下载Flash软件
+    * [Corsair官网](http://corsair.thuhpc.org/)
+    * [Corsair For Windows下载地址](http://corsair.thuhpc.org/index.php?option=com_jotloader&task=files.download&cid=69&Itemid=30)
+  * 如果要单独安装Flash，可以在Corsair中搜索“Adobe Flash CS4”
+  * 如果你对编写Action Script 3.0感兴趣，建议安装Flash CS5和Flash Builder 4，经测试，这两个软件可以比较完美地协同工作。这两个软件比较难找，需要的话可以找我要。
+  * 如果要安装Adobe Creative Suite套件（包含Flash、Photoshop、Acrobat等软件），可以在Corsair中搜索“Adobe CS3”或者“Adobe CS4”。
+    * 注1：Adboe CS非常大，很占空间（尤其是很流氓地吃C盘空间），所以在安装时一定要选Custom安装，只选择你需要的软件。除Flash以外，建议把Photoshop也装上。不知道干什么用的软件最好不要装。
+    * 注2：如果装CS3，那么在安装之前需要把已经装过的Adobe产品卸载，否则安装会出错。不知道CS4是否解决了这个BUG。
+  * **任务提交** Flash安装完成后，请在此页面留个评论。如果有任何问题，可以留到下周六上课时解决（有条件的话尽量带上你的笔记本电脑以及所下载的安装文件）。
+
+# 2010/05/08 - ? Hunt for Oracle - Prelude #
+  * 我们需要根据每个分时段游戏的需求来寻找素材，主要是从甲骨文字库中挑选适合游戏的文字、找山水画之类的事情。各部分分工和展示PPT的分工相同。
+  * 先请[王琛](AssignmentWC.md)试着找找甲骨文字库。找到后，我会根据字库的格式来确定每人具体需要提交什么内容，然后把每人的具体任务写在个人任务页面。
+  * 因为王琛找字库的复杂度不定，所以暂时不设Deadline。
+
+# 2010/05/06 - 2010/05/07 Mission Start! #
+  * 到http://mail.google.com注册一个Gmail账号，然后短信或飞信把地址告诉刘洋
+  * 刘洋加你为Project Committers后，找到“共同的任务”页面，对此页面发一条评论
+  * 随便逛逛
+  * 请在周五晚上开会之前完成
